@@ -17,7 +17,6 @@ func main() {
 	} else if two = 1; two == two {
 		println("F") //!
 	}
-
 	if two = 1; two == two {
 		println("F")
 	}
